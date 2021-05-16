@@ -1,0 +1,2 @@
+pydash==5.0.0
+jsonpath_ng==1.5.2
