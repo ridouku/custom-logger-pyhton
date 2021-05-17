@@ -77,7 +77,7 @@ You must have installed python
 
 ## Usage
 
-You can read about this project and how it works, following the next link [Documentation](https://example.com)
+You can read about this project and how it works, following the next link [Documentation](https://ridouku.medium.com/custom-logger-with-python-e1a53184b6a7)
 
 <!-- CONTRIBUTING -->
 
